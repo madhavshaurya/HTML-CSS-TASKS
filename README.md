@@ -1,4 +1,4 @@
-# HTML Task 1 - Sample Project
+# MERN STACK TASKS- HTML AND CSS
 
 This is a simple HTML project for Task 1. It consists of a single `index.html` file that serves as the main webpage for the project.
 
@@ -12,7 +12,7 @@ This is a simple HTML project for Task 1. It consists of a single `index.html` f
 
 ## Description
 
-This project is part of a series of HTML tasks and contains the HTML code for Task 1. It's a basic webpage that demonstrates the use of HTML tags and structure.
+This project is part of a series of HTML and CSS tasks and contains the HTML code for different Tasks. It's a basic webpage that demonstrates the use of HTML and CSS tags and structure.
 
 ## Getting Started
 
@@ -33,4 +33,11 @@ Contributions are not accepted for this specific project, as it's meant for educ
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Credits
+
+- **Name:** Shaurya Madhav
+- **Email:** shauryamadhav305@gmail.com
+- **Registration Number:** 21BCE7190
+- **University:** VITAP University
 
